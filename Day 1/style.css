@@ -1,0 +1,36 @@
+body{
+    font-family: 'roboto';
+}
+#box {
+    height: 138px;
+    width: 457px;
+    border: 2px solid blue;
+    /* margin: 4px; */
+   
+}
+.content-box{
+    display: flex;
+}
+
+#boxa{
+    height: 132px;
+    width: 451px;
+    border: 2px solid yellow;
+    margin: 1px;
+}
+img {
+    height: 130px;
+    width: 130px;
+    margin: 2px;
+}
+
+#content{
+    margin-left: 14px;
+    /* font-size: 20px;  */
+}
+
+.icons img{
+    height: 20px;
+    width: 20px;
+}
+
